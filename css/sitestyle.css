@@ -42,7 +42,7 @@
     background-color: #9CE2E8;
     background-size: cover;
     margin: 1%;
-    float: left;
+    float: right;
     font-family: asap;
     font-style: normal;
     font-weight: 400;
@@ -55,9 +55,17 @@
     background-color: #9CE2E8;
     background-size: cover;
     margin: 1%;
-    float: left;
+    float: right;
     font-family: asap;
     font-style: normal;
     font-weight: 400;
     text-align: center;
+}
+
+.runbutton {
+	height: 21px;
+	width: 82px;
+	text-align: center;
+	clear: both;
+	
 }

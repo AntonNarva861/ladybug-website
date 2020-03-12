@@ -1,0 +1,83 @@
+@charset "utf-8";
+#heading {
+    font-family: black-ops-one;
+    text-align: center;
+    font-size: 37px;
+    font-style: normal;
+    font-weight: 400;
+    color: #131927;
+    background-color: #9CE2E8;
+	margin: 1%;
+}
+
+.box1 {
+    height: 338px;
+    width: 47.5%;
+    background-color: #D2F1F4;
+    background-size: cover;
+    margin: 1%;
+    float: left;
+    font-family: asap;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    font-size: xx-large;
+}
+
+.box2 {
+    height: 338px;
+    width: 47.5%;
+    background-color: #D2F1F4;
+    background-size: cover;
+    margin: 1%;
+    float: left;
+    font-family: asap;
+    font-style: normal;
+    font-weight: 400;
+    text-align: left;
+    font-size: xx-large;
+}
+
+.boxleft {
+    height: 70px;
+    width: 48%;
+    background-color: #9CE2E8;
+    background-size: cover;
+    margin: 1%;
+    float: right;
+    font-family: asap;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+
+.boxright {
+    height: 70px;
+    width: 48%;
+    background-color: #9CE2E8;
+    background-size: cover;
+    margin: 1%;
+    float: right;
+    font-family: asap;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+}
+
+.runbutton {
+	height: 30px;
+	width: 100%;
+	text-align: center;
+	transition-property: background;
+	transition-duration: 0.1s;
+	transition-timing-function: ease;
+	transition-delay: 0s;
+	float: none;
+	clear: none;
+}
+
+.runbutton:hover{
+	background: #1ECDE3;
+	position: static;
+	height: 40px;
+}
